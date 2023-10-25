@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayrideBECodingChallenge", "JayrideBECodingChallenge\JayrideBECodingChallenge.csproj", "{DDAEA3D5-0EF3-4A20-8758-CF4D40648E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAEA3D5-0EF3-4A20-8758-CF4D40648E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAEA3D5-0EF3-4A20-8758-CF4D40648E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAEA3D5-0EF3-4A20-8758-CF4D40648E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAEA3D5-0EF3-4A20-8758-CF4D40648E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2E1D9E-8B57-47E5-B1BC-0377DE62E5CF}
+	EndGlobalSection
+EndGlobal
